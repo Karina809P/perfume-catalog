@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/perfume-catalog/static/js/main.ae683632.js",
+    "main.js": "/perfume-catalog/static/js/main.e78424b6.js",
     "static/media/logo.jpg": "/perfume-catalog/static/media/logo.359e25e474a8f5f5d78f.jpg",
     "index.html": "/perfume-catalog/index.html",
-    "main.ae683632.js.map": "/perfume-catalog/static/js/main.ae683632.js.map"
+    "main.e78424b6.js.map": "/perfume-catalog/static/js/main.e78424b6.js.map"
   },
   "entrypoints": [
-    "static/js/main.ae683632.js"
+    "static/js/main.e78424b6.js"
   ]
 }
