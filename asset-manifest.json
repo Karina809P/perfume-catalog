@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/perfume-catalog/static/js/main.248a9048.js",
+    "static/media/logo.jpg": "/perfume-catalog/static/media/logo.359e25e474a8f5f5d78f.jpg",
+    "index.html": "/perfume-catalog/index.html",
+    "main.248a9048.js.map": "/perfume-catalog/static/js/main.248a9048.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.248a9048.js"
+  ]
+}
